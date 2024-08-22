@@ -1,0 +1,27 @@
+# Visual Studio
+.vs/
+*.vcxproj.user
+*.vcxproj.filters
+*.suo
+*.pdb
+*.obj
+*.log
+*.tlog
+*.ipch
+*.idb
+*.ilk
+*.sdf
+*.opensdf
+*.cache
+*.VC.db
+*.VC.VC.opendb
+
+# Build outputs
+/Debug/
+/Release/
+/x64/
+/x86/
+
+# Package directories
+*.nuget/
+
